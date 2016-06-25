@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Self Sufficient Future]]></title>
         <description><![CDATA[Self Sufficient Future]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/self-sufficient-future/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 25 Jun 2016 20:09:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/self-sufficient-future/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technology | Solar Fire]]></title>
+            <description><![CDATA[<article><h1>Technology | Solar Fire</h1><p>Solar Fire is a cost-effective technology for concentrating sunlight for thermal needs. Our technology is local and (...)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb4d8921f8c15183a3a30637dd9c171c/croprotate.jpg?cropheight=304&cropwidth=1110&degrees=0&input=http%3A%2F%2Fwww.solarfire.org%2Flocal%2Fcache-gd2%2F25%2F54cafa4528baae289a5027d435b379.jpg%3F1464702241&x=0&y=0"></article>]]></description>
+            <link>http://www.solarfire.org/Technology</link>
+            <guid isPermaLink="false">79755d8c-aec6-4352-8ad9-c4192b93e5b9</guid>
+            <pubDate>Sat, 25 Jun 2016 20:09:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rainwater Harvesting]]></title>
             <description><![CDATA[<article><h1>Rainwater Harvesting</h1><p>Welcome to the Rainwater Harvesting website for the Texas A&M AgriLife Extension Service! Our goal is to educate the public about rainwater harvesting and other water-related issues so that we can have a sustainable water supply for generations to come.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3068a4348fc3f316a24e48823d87feef/noop.jpg?input=http%3A%2F%2Frainwaterharvesting.tamu.edu%2Ffiles%2F2011%2F01%2Fcropped-in-home-use.jpg"></article>]]></description>
